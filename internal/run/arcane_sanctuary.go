@@ -3,8 +3,8 @@ package run
 import (
 	"github.com/hectorgimenez/d2go/pkg/data"
 	"github.com/hectorgimenez/d2go/pkg/data/area"
-	"github.com/hectorgimenez/koolo/internal/action"
-	"github.com/hectorgimenez/koolo/internal/config"
+	"github.com/unsquishable/koolo/blob/main/internal/action"
+	"github.com/unsquishable/koolo/blob/main/internal/config"
 )
 
 type ArcaneSanctuary struct {
